@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758077332084",
+    "project_id": "foodlens-c5018",
+    "storage_bucket": "foodlens-c5018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758077332084:android:71310c9114f1a12b31cf21",
+        "android_client_info": {
+          "package_name": "com.foodlens"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758077332084-e3pgdf5koo6mu35immu7s2vh3d4mldv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMGXkmQ_niHT7_U5ukrnA4PWwYa2Swg6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758077332084-e3pgdf5koo6mu35immu7s2vh3d4mldv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
